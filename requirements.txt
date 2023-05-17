@@ -1,4 +1,6 @@
 requests
+pyfiglet
+colorama
 requests==2.30.0 
 random2==1.0.1
 random-number==0.0.3 
@@ -10,3 +12,4 @@ colorama==0.4.6
 os-sys==2.1.4 
 tk-tools==0.16.0
 beautifulsoup4==4.12.2 
+setuptools==67.7.2 
