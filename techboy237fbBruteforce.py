@@ -1,3 +1,4 @@
+import pkg_resources
 import requests
 import random
 import string
@@ -102,5 +103,3 @@ with requests.Session() as session:
 
 # Additional code after the brute force process
 # ...
-
-
